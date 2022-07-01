@@ -4,4 +4,3 @@
   - tide
   - nvm
   - exa (requires global exa package)
-  - test
