@@ -7,3 +7,5 @@ alias vim "nvim"
 alias fishrc "cd ~/.config/fish/ && vim config.fish"
 alias srcfish "source ~/.config/fish/config.fish"
 alias vimrc "cd ~/.config/nvim/lua/user/ && vim init.lua"
+
+alias ct3 "pnpm dlx create-t3-app@latest"
